@@ -1,7 +1,7 @@
 # WebMD_Reviews_Scrapy
 
 Built in Collaboration with ssr01357 (Yeawon Lee for her master's thesis) 
-The purpose of this code was to scrape WebMD for a specific set of drugs and their side affects
+The purpose of this code was to scrape WebMD for a specific set of drugs, their side affects and reviews of that specific drug
 
 
 Tested on python version 3.9
